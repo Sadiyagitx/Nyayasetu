@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NyayaSetu v2.0 — AI Legal Assistant
 ### Production-Grade · Demo-Day Ready · Hackathon Winning
 
@@ -119,3 +120,7 @@ gcloud run deploy nyayasetu \
 | `Port already in use` | Change PORT in .env to 8081 |
 | `Module not found` | Run `pip install -r requirements.txt` again |
 | `Service Unavailable` | Check GEMINI_API_KEY is set correctly |
+=======
+# Nyayasetu
+AI-powered legal-tech platform that simplifies government schemes, legal procedures, and citizen assistance through intelligent guidance and multilingual support.
+>>>>>>> 1076564be0994ae2155b278e1144e3049a3165e4
